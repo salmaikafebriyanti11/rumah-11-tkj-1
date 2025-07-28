@@ -1,0 +1,8 @@
+Minuman
+- Boba
+- Es Serut
+- Es Teh
+- Kopi Susu
+- Es Buah
+- Ice Cream
+- Air Putih Dingin
